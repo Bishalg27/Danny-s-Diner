@@ -142,16 +142,26 @@ group by customer_id;
 ```
 
 
+## Learnings : 
+
+``` Data Analyzing ```
+
+This project enhanced my ability to analyze data and derive insights from it. I acquired valuable skills in comprehending information, identifying patterns, and addressing problems effectively. It bolstered my confidence in tackling data-related challenges, enabling me to make well-informed decisions.
 
 
+## Tech Stack 
+`` MYSQL`` Used for solving this queries.
 
 
+## Files Information : 
+- Database : It contains the excel files of the Music Shop.
+- Music Store Analysis-Questions.docx : It contains the question that I tried to solved.
+- Schema : It shows the relation among the tables in the *Database*
 
+## License : 
+For questions or feedback, please contact: vishugoswami27@gmail.com
 
-
-
-
-
+Enjoy exploring the project!
 
 
 
