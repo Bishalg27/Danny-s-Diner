@@ -154,9 +154,10 @@ This project enhanced my ability to analyze data and derive insights from it. I 
 
 
 ## Files Information : 
-- Database : It contains the excel files of the Music Shop.
-- Music Store Analysis-Questions.docx : It contains the question that I tried to solved.
-- Schema : It shows the relation among the tables in the *Database*
+- Questions: It contains the questions that have been solved.
+- Solution: It contains the queries.
+- Relationship: It shows the schema, the relation among the tables.
+- Table Script: It contains the table script of the problems.
 
 ## License : 
 For questions or feedback, please contact: vishugoswami27@gmail.com
